@@ -1,0 +1,16 @@
+HOMEWORK 02
+
+Variables: Las variables son celdas en la memoria que guardan los datos que se les asignen. Se las pueden imaginar como cajones 
+en los cuales se pueden guardar distintos tipos de cosas. 
+
+Strings: Es un tipo de dato el cual consiste en una cadena de caracteres encerrados entre comillas ('').
+
+Funciones: Las funciones son herramientras creadas por el programador para no escribir el mismo fragmento del codigo mas de una vez.
+    * Las funciones (argumentos) son funciones que requieren de la variable entre su parentesis para funcionar correctamente. Pueden 
+    tener mas de un argumento.
+    * Las funciones que contienen en su codigo la declaracion return, son funciones que nos van a devolver un dato. 
+
+Declaraciones if: Las declaraciones if son herramientas que analizan y comparan ciertos datos, el resultado de esta comparacion va 
+a determinar que accion se lleva a cabo. Los resultados de la comparacion son de caracter booleano. 
+
+Valores Booleanos: Los valores booleanos vienen del dato del tipo booleano. Estos datos tienen dos posibles valores: true o false. 
