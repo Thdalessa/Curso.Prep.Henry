@@ -1,0 +1,6 @@
+HOMEWORK 04
+
+ARRAYS: Los arrays son un tipo de variable que en vez de almacenar un unico dato, puede almacenar un grupo de datos. Tambien, es
+correcto decir que es una lista de elementos/datos que puede almacenar distintos tipos de datos en el mismo array. 
+Se podria decir que un array es un armario con la cantidad de cajones que nosotros queramos y cada cajon puede almacenar 
+una unica cosa. 
