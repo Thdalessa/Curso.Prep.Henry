@@ -1,0 +1,16 @@
+homework03
+
+for: Es una herramienta de tipo bucle que basicamente, realiza ciertas acciones que nosotros codifiquemos mientras cierta condicion 
+se cumpla. Dicha condicion depende de una variable que se crea dentro de las instrucciones del for y, cuando la condicion se deja de 
+cumplir, el bucle para. Dentro de las instrucciones del for, se agrega un operador ++ que aumenta el valor de la variable condicional
+en 1 cada vez que el for cumple un ciclo. 
+
+&&: Es un operador logico que se usa entre medio de dos condiciones. Si ambas condiciones dan como resultado *true*, el resultado 
+booleano total de la expresion sera *true*. Si alguna de las dos condiciones o ambas son *false*, el resultado booleano total sera
+*false* .
+
+||: Es un operador logico que se usa entre medio de dos o mas condiciones. Si alguna de las condiciones da como resultado *true*,
+el resultado booleano total de la expresion sera *true*. Si ninguna condicion da como resultado *true*, el resultado booleano total
+de la expresion sera *false*.
+
+!: Es un operador logico que indica la negatividad de su poscedente. Es decir, *!true* = false.
