@@ -1,0 +1,20 @@
+
+
+* Objetos: Los Objetos son una lista de elementos o contenedores de datos que a diferencia de los arrays tienen mas libertades. 
+Un array tiene un indice que lo acompania, por cada elemento que se agregue a un array un numero indice lo acompania. Por otro lado,
+un objeto posee palabras clave acompaniadas de valores. Esto los hace mucho mas utiles y comprensibles a la hora de almacenar muchos 
+datos.
+
+* Propiedades: Las propiedades vendrian a ser los pares de palabras clave/valores. Ejemplificando, podriamos decir que:
+la palabra clave 'trabajo' y el valor ' plomero' hacen en conjunto una propiedad del x objeto.
+
+* Métodos: Los metodos son las funciones guardadas en un metodo. Se las diferencia de las funciones normales por que en otros 
+lenguajes de programacion, las propiedades y los metodos se escriben y crean de manera diferente.
+
+* Bucle `for…in`: Este tipo de bucle es un bucle especial utilizado para recorrer todas las propiedades de un objeto. Ya que, 
+a diferencia de un array, las palabras clave pueden no tener relacion alguna con su predecesor o con la palabra clave siguiente.
+
+* Notación de puntos vs notación de corchetes: 
+La notacion de puntos por un lado se escribe: Objeto.propiedad; .Tiene un uso mas simple y rapido.
+La notacion de corchetes por otro lado se escribe: Objeto['propiedad']; .Es el tipo de notacion que se uso primeramente.
+Ambos tipos de notacion se usan para acceder a los valores de las propiedades de un objeto. 
