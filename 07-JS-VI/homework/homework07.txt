@@ -1,0 +1,14 @@
+homework07
+
+Callbacks: Los Callbacks o 'cb' son las funciones que aceptan a otra funcion como un argumento dentro de la funcion.
+            Ej: var x = function(nombre){
+                return 'Hola, mi nombre es ' + nombre;
+            } 
+
+                var y = function(nombre){
+                    return 'Saludos cordiales, ' + nombre;
+                }
+
+                var z = function(nombre, cb){
+                    return cb(nombre);
+                }
