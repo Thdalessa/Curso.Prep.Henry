@@ -1,0 +1,12 @@
+HOMEWORK 06
+
+PROTOTYPE: PROTOTYPE es una caracteristicas principal de JAVASCRIPT. Los prototipos son quienes hacen posible la 
+            herencia de propiedades de un objeto a otros. Los prototipos son muy importantes para entender el funcionamiento de 
+            JAVASCRIPT ya que a menudo se dice que JS es un lenguaje basado en prototipos.
+           
+
+
+CONSTRUCTORES: Los constructores o tambien llamados class, son plantillas bases que se utilizan para crear mas de un objeto del 
+                mismo tipo. 
+
+                
