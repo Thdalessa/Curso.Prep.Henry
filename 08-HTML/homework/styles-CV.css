@@ -1,0 +1,139 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row;
+    background-color: rgba(200, 200, 200, 0.87);
+    margin:10px;
+    padding: 10px;
+    border:3px black double;
+    width:300px;
+    height:250px;
+    
+}
+
+#divHead{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornsilk;
+    height:900px;
+    width: 400px;
+}
+
+#edExp{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornsilk;
+    height:900px;
+    width: 400px;
+
+}
+
+#skillsHobbies{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk; 
+    height:900px;
+    width: 400px;
+}
+
+#divTitulo{
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    margin:10px;
+    padding: 10px;
+    border:3px black double;
+    width:300px;
+    height:150px;
+}
+
+#foto{
+    display: flex;
+    align-items: center;
+    background-color: rgba(200, 200, 200, 0.87);
+    margin:10px;
+    padding: 10px;
+    border:3px black double;
+    width:300px;
+    height:450px;
+}
+
+img{
+    height: 350px;
+    width: 250px;
+}
+
+#itemList{
+    font-size: medium;
+
+}
+
+#educacion{
+    display: flex;
+    flex-flow: column;
+    height:200px;
+    width: 300px;
+    align-items: center;
+    
+}
+
+#experiencia{
+    display: flex;
+    flex-flow: column;
+    height:700px;
+    width: 300px;
+    align-items: center;
+}
+
+#skills{
+    display: flex;
+    flex-flow: column;
+    height:200px;
+    width: 300px;
+    align-items: center;
+}
+
+#hobbies{
+    display: flex;
+    flex-flow: column;
+    height:200px;
+    width: 300px;
+    align-items: center;
+}
+#henry{
+    display: flex;
+    flex-flow: column;
+    height:400px;
+    width: 300px;
+    align-items: center;
+}
+
+#titulo{
+    background-color: darkgrey;
+    border:2px black double;
+}
+
+#descripcion{
+    display: flex;
+    flex-flow: column;
+    height:200px;
+    width: 300px;
+    align-items: center; 
+}
